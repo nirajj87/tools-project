@@ -1,0 +1,49 @@
+body {
+    background-color: #f9f9f9;
+}
+/* Header Styling */
+.navbar {
+    background: linear-gradient(90deg, #007bff, #0056b3);
+    padding: 15px;
+}
+.navbar-brand {
+    font-weight: bold;
+    font-size: 22px;
+    color: white !important;
+}
+.container {
+    max-width: 600px;
+    margin-top: 50px;
+}
+.password-box {
+    text-align: center;
+    padding: 15px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+.password-output {
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background: #f8f9fa;
+    border-radius: 5px;
+}
+.copy-btn {
+    cursor: pointer;
+    color: #007bff;
+}
+/* Footer Styling */
+.footer {
+    background-color: #007bff;
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+    margin-top: 50px;
+}
+.footer p {
+    margin-bottom: 0;
+}

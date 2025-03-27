@@ -1,0 +1,3 @@
+.upload-box { transition: all 0.3s; }
+.convert-btn { transition: all 0.3s; }
+.drag-over { border-color: #3b82f6; background-color: #eff6ff; }
