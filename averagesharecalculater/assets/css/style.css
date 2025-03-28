@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; text-align: center; margin: 50px; transition: background 0.3s, color 0.3s; }
+.container { max-width: 500px; margin: auto; padding: 20px; border: 1px solid #ddd; border-radius: 8px; }
+input, button { width: 100%; padding: 10px; margin: 5px 0; border-radius: 5px; border: 1px solid #ccc; }
+button { background: #007bff; color: white; cursor: pointer; }
+button:hover { background: #0056b3; }
+.result, #chartContainer { display: none; margin-top: 20px; padding: 10px; border-radius: 5px; }
+body.dark-mode { background: #121212; color: white; }
+.dark-mode .container { background: #222; border-color: #444; }
+.toggle-btn { position: absolute; top: 20px; right: 20px; }
